@@ -5,6 +5,12 @@ Input Format
 
 The STATION table is described as follows:
 
+field    type
+id  ---- int
+city ----varchar(20)
+state --- varchar(20)
+lat_n -- number
+long_w ---number
 
 where LAT_N is the northern latitude and LONG_W is the western longitude.
 
