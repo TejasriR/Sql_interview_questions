@@ -1,0 +1,13 @@
+Customer_Name,Purchase_Date,Product_Name,Price,"Address (Door_No,Street_Name,City,State,Pin,Country)"
+,,,,
+XYZ,14-03-2025,TTTT,300,"32/12,1st Street, Bangalore,Karnataka,54645,India"
+,,,,
+ABC,14-03-2025,TTSS,200,"A32/12,Temple Street, Mangalore,Karnataka,54467,India"
+,,,,
+GHY,14-03-2025,AATT,200,"X59,Main Street, Mysore,Karnataka,54645,India"
+,,,,
+XYZ,14-03-2025,TTTT,300,"32/12,1st Street, Mumbai,Maharastra,54645,India"
+,,,,
+ABC,14-03-2025,TTSS,200,"A32/12,Temple Street, Pune,Maharastra,54467,India"
+,,,,
+GHY,14-03-2025,AATT,200,"X59,Main Street, Nashik,Maharastra,54645,India"
